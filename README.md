@@ -14,9 +14,20 @@ CygNet will not give technical support for the contents of any of these reposito
 
 You can contribute to any of these repositories by [submitting a pull request](https://help.github.com/articles/creating-a-pull-request/). Pull requests will be monitored by the owners of the repositories (which should be noted in the respective `README.md`). Pull requests are more likely to be accepted if they improve the quality of the repository and are not overly nitpicky (an example of a pull request that might be rejected is one that changes the names of variables in a script to fit a certain naming convention). `<insert example here at a future date>`
 
+### Larger Projects
+
+There are two primary methods of code sharing we have identified:
+
+1. CygNet software engineers posting snippets or projects for general consumption
+2. *to be added...*
+
 ## Repositories
 
 * [Script Samples](https://github.com/cygnet-software/ScriptSamples)
 * [CygNet Bridge Sample App](https://github.com/cygnet-software/CygNetBridgeSampleApp)
 * [Canvas Demo Screens](https://github.com/cygnet-software/CanvasDemoScreens)
 * [Canvas Plugin Example](https://github.com/cygnet-software/CanvasPluginExample)
+
+## Links To Other Users' Repositories
+
+*To be added...*
