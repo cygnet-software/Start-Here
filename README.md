@@ -19,7 +19,7 @@ You can contribute to any of these repositories by [submitting a pull request](h
 There are two primary methods of code sharing we have identified:
 
 1. CygNet software engineers posting snippets or projects for general consumption
-2. *to be added...*
+2. SCADA admins posting snippets for other SCADA admins
 
 ## Repositories
 
@@ -28,6 +28,6 @@ There are two primary methods of code sharing we have identified:
 * [Canvas Demo Screens](https://github.com/cygnet-software/CanvasDemoScreens)
 * [Canvas Plugin Example](https://github.com/cygnet-software/CanvasPluginExample)
 
-## Links To Other Users' Repositories
+## Links To Other Helpful Repositories
 
 *To be added...*
