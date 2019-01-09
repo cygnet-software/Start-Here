@@ -21,6 +21,8 @@ There are two primary methods of code sharing we have identified:
 1. CygNet software engineers posting snippets or projects for general consumption
 2. SCADA admins posting snippets for other SCADA admins
 
+If you have a project on GitHub and would like to share, submit an issue on this repository and it will be added to the "Links To Other Helpful Repositories" section below.
+
 ## Repositories
 
 * [Script Samples](https://github.com/cygnet-software/ScriptSamples)
