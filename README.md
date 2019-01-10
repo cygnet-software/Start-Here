@@ -12,7 +12,7 @@ CygNet will not give technical support for the contents of any of these reposito
 
 ## Contributing
 
-You can contribute to any of these repositories by [submitting a pull request](https://help.github.com/articles/creating-a-pull-request/). Pull requests will be monitored by the owners of the repositories (which should be noted in the respective `README.md`). Pull requests are more likely to be accepted if they improve the quality of the repository and are not overly nitpicky (an example of a pull request that might be rejected is one that changes the names of variables in a script to fit a certain naming convention). `<insert example here at a future date>`
+You can contribute to any of these repositories by [submitting a pull request](https://help.github.com/articles/creating-a-pull-request/). Pull requests will be monitored by the owners of the repositories. Pull requests are more likely to be accepted if they improve the quality of the repository and are not overly nitpicky (an example of a pull request that might be rejected is one that changes the names of variables in a script to fit a certain naming convention). [Here](https://github.com/cygnet-software/CanvasDemoScreens/pull/1) is an example of a pull request which adds a Canvas screen, describing its usefulness and even has a file about how to use the screen.
 
 ### Larger Projects
 
