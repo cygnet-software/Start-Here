@@ -8,7 +8,7 @@ The repositories are provided under the 3-clause BSD license, which is available
 
 ## Support
 
-CygNet will not give technical support for the contents of any of these repositories. These resources are provided for various reasons (including as examples or templates) but they are separate from the CygNet product. **Do not contact CygNet Support with questions about the contents of these repositories as they will probably have no clue what your are talking about**. Instead, [submitting an issue on GitHub](https://help.github.com/articles/creating-an-issue/) is the best way to ask for help. We cannot guarantee that the issues will be resolved.
+CygNet will not give technical support for the contents of any of these repositories. These resources are provided for various reasons (including as examples or templates) but they are separate from the CygNet product. **Do not contact CygNet Support with questions about the contents of these repositories as they will probably have no clue what you are talking about**. Instead, [submitting an issue on GitHub](https://help.github.com/articles/creating-an-issue/) is the best way to ask for help. We cannot guarantee that the issues will be resolved.
 
 ## Contributing
 
@@ -29,7 +29,6 @@ If you have a project on GitHub and would like to share, submit an issue on this
 * [CygNet Bridge Sample App](https://github.com/cygnet-software/CygNetBridgeSampleApp)
 * [Canvas Demo Screens](https://github.com/cygnet-software/CanvasDemoScreens)
 * [Canvas Plugin Example](https://github.com/cygnet-software/CanvasPluginExample)
+* [CygNet.API.Cache Example](https://github.com/cygnet-software/CygNet.API.Cache.Example)
+* [History Performance Tester](https://github.com/cygnet-software/HistoryPerformanceTester)
 
-## Links To Other Helpful Repositories
-
-*To be added...*
